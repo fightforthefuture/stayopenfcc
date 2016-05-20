@@ -1,0 +1,129 @@
+body > p:last-of-type {
+    color: #ddd;
+    margin-bottom: 80px;
+
+    a {
+        padding: 0px 5px;
+    }
+}
+hr {
+    display: none;
+}
+dl {
+    dt {
+        display: block;
+        margin: 0px auto;
+        max-width: 975px;
+        font-size: 40px;
+        color: white;
+        text-align: center;
+        padding-top: 40px;
+        padding-bottom: 30px;
+        font-weight: 300;
+    }
+    dd {
+        text-align: center;
+        padding-bottom: 65px;
+
+        ul {
+            margin: 0px auto;
+            max-width: 900px;
+
+            li {
+                display: inline-block;
+                width: 195px;
+                height: 82px;
+                background: white;
+                border-radius: 10px;
+                vertical-align: top;
+                margin: 8px 4px;
+                line-height: 82px;
+
+                img {
+                    max-height: 90%;
+                    max-width: 90%;
+                    width: auto;
+                    height: auto;
+                    vertical-align: middle;
+                }
+            }
+        }
+    }
+
+    &:first-child {
+
+        padding-top: 15px;
+        border-top: 5px solid #582ca9;
+        background: url(/images/background2.png) center top no-repeat;
+
+        dt {
+            font-size: 50px;
+            padding-top: 60px;
+            padding-bottom: 50px;
+        }
+
+        ul {
+            display: inline-block;
+
+            li {
+                width: auto;
+                height: auto;
+                background: none;
+                border-radius: 0px;
+                line-height: 1em;
+
+                padding: 0px 25px;
+                border-right: 1px solid #444456;
+                padding-bottom: 3px;
+                text-transform: uppercase;
+
+                a {
+                    font-weight: 600;
+                }
+
+                &:last-child {
+                    border-right: 0px none;
+                }
+            }
+        }
+
+        a em {
+            display: inline-block;
+            margin-top: 50px;
+            height: 65px;
+            line-height: 65px;
+            font-size: 20px;
+            width: 100%;
+            max-width: 450px;
+            background: #7a32ff;
+            color: white;
+            text-transform: uppercase;
+            font-weight: 600;
+            border-radius: 10px;
+
+            &:hover {
+                background: #6a22ef;
+            }
+
+        }
+    }
+
+    &:nth-of-type(even) {
+        background: rgba(0, 0, 0, .2);
+    }
+}
+
+.letter {
+    margin: 30px auto 0px auto;
+    max-width: 850px;
+    text-align: left;
+    color: white;
+    background: #383842;
+    border-top: 6px solid #595966;
+    border-radius: 10px;
+    padding: 50px;
+
+    p {
+        margin-bottom: 25px;
+    }
+}
