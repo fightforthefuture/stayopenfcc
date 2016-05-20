@@ -11,7 +11,7 @@ body {
     font-size: 1.6rem;
     font-family: @body-font;
     position: relative;
-    background: @darkBlue url(/images/background.jpg) center top repeat-x;
+    background: @darkBlue url(../images/background.jpg) center top repeat-x;
     background-attachment: fixed;
     text-align: center;
     color: white;
@@ -20,6 +20,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: @heading-font;
 }
+
+/* JL HACK ~ graaah. */
+h1 {
+    overflow: hidden;
+    width: 0px;
+    height: 0px;
+    color: transparent;
+}
+/* -------------- */
 
 strong {
     font-weight: bold;

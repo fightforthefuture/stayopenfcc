@@ -10,7 +10,7 @@
       "url": "https://github.com/gesa/"
     }
   ],
-  "private" : "true",
+  "private": "true",
   "repository": "gesa/fftf-campaign-boilerplate",
   "scripts": {
     "postinstall": "bundle",
@@ -19,7 +19,9 @@
     "build": "grunt build",
     "deploy": "./deploy-ghpages.sh"
   },
-  "dependencies": {},
+  "dependencies": {
+    "kramdown": "0.0.0"
+  },
   "devDependencies": {
     "autoprefixer": "^6.0.0",
     "cssnano": "^2.6.1",

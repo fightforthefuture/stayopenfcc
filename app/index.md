@@ -12,44 +12,52 @@ Together, we call on the **FCC** to create an open, public process to inform its
 
 ---
 
+# - {#companies}
+
 Companies
-: * ![Mozilla](/images/logos/mozilla.png)
-  * ![Meetup](/images/logos/meetup.png)
-  * ![Medium](/images/logos/medium.png)
-  * ![Tumblr](/images/logos/tumblr.png)
-  * ![Engine](/images/logos/engine.png)
-  * ![Popular Resistance](/images/logos/popular_resistance.png)
-  * ![Cogent](/images/logos/cogent.png)
-  * ![Foursquare](/images/logos/foursquare.png)
+: * ![Mozilla](images/logos/mozilla.png)
+  * ![Meetup](images/logos/meetup.png)
+  * ![Medium](images/logos/medium.png)
+  * ![Tumblr](images/logos/tumblr.png)
+  * ![Engine](images/logos/engine.png)
+  * ![Popular Resistance](images/logos/popular_resistance.png)
+  * ![Cogent](images/logos/cogent.png)
+  * ![Foursquare](images/logos/foursquare.png)
 
 
 ---
+
+# - {#investors}
 
 Investors
-: * ![Mozilla](/images/logos/mozilla.png)
-  * ![Meetup](/images/logos/meetup.png)
-  * ![Medium](/images/logos/medium.png)
-  * ![Tumblr](/images/logos/tumblr.png)
-  * ![Engine](/images/logos/engine.png)
-  * ![Popular Resistance](/images/logos/popular_resistance.png)
-  * ![Cogent](/images/logos/cogent.png)
-  * ![Foursquare](/images/logos/foursquare.png)
+: * ![Mozilla](images/logos/mozilla.png)
+  * ![Meetup](images/logos/meetup.png)
+  * ![Medium](images/logos/medium.png)
+  * ![Tumblr](images/logos/tumblr.png)
+  * ![Engine](images/logos/engine.png)
+  * ![Popular Resistance](images/logos/popular_resistance.png)
+  * ![Cogent](images/logos/cogent.png)
+  * ![Foursquare](images/logos/foursquare.png)
 
 
 ---
+
+# - {#groups}
 
 Civil Society
-: * ![Mozilla](/images/logos/mozilla.png)
-  * ![Meetup](/images/logos/meetup.png)
-  * ![Medium](/images/logos/medium.png)
-  * ![Tumblr](/images/logos/tumblr.png)
-  * ![Engine](/images/logos/engine.png)
-  * ![Popular Resistance](/images/logos/popular_resistance.png)
-  * ![Cogent](/images/logos/cogent.png)
-  * ![Foursquare](/images/logos/foursquare.png)
+: * ![Mozilla](images/logos/mozilla.png)
+  * ![Meetup](images/logos/meetup.png)
+  * ![Medium](images/logos/medium.png)
+  * ![Tumblr](images/logos/tumblr.png)
+  * ![Engine](images/logos/engine.png)
+  * ![Popular Resistance](images/logos/popular_resistance.png)
+  * ![Cogent](images/logos/cogent.png)
+  * ![Foursquare](images/logos/foursquare.png)
 
 
 ---
+
+# - {letter}
 
 The letter
 : [**Download the PDF**](/letter.pdf)
@@ -97,6 +105,6 @@ The letter
 
 ---
 
-[![Fight for the Future](/images/fftf-footer-logo.png)](https://www.fightforthefuture.org)
+[![Fight for the Future](images/fftf-footer-logo.png)](https://www.fightforthefuture.org)
 
 Press Contact: [press@fightforthefuture.org](mailto:press@fightforthefuture.org) / [+1 508 474 5248](tel://15084745248)
