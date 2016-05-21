@@ -12,7 +12,7 @@ Together, we call on the **FCC** to create an open, public process to inform its
 
 ---
 
-# - {#companies}
+# ♥ {#companies}
 
 Companies
 : * ![Mozilla](images/logos/mozilla.png)
@@ -27,7 +27,7 @@ Companies
 
 ---
 
-# - {#investors}
+# ♥ {#investors}
 
 Investors
 : * ![Mozilla](images/logos/mozilla.png)
@@ -42,7 +42,7 @@ Investors
 
 ---
 
-# - {#groups}
+# ♥ {#groups}
 
 Civil Society
 : * ![Mozilla](images/logos/mozilla.png)
@@ -57,7 +57,7 @@ Civil Society
 
 ---
 
-# - {letter}
+# ♥ {letter}
 
 The letter
 : [**Download the PDF**](/letter.pdf)
