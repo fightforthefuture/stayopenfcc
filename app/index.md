@@ -20,7 +20,6 @@ Companies
   * ![Dreamhost](images/logos/dreamhost.png)
   * ![Duck Duck Go](images/logos/duck_duck_go.png)
   * ![Engine](images/logos/engine.png)
-  * ![Level 3](images/logos/level_3.png)
   * ![Foursquare](images/logos/foursquare.png)
   * ![Gainfully](images/logos/gainfully.png)
   * ![Haystack TV](images/logos/haystack_tv.jpg)
