@@ -26,18 +26,18 @@ Companies
   * ![Legal.io](images/logos/legal_io.png)
   * ![Linknovate](images/logos/linknovate.png)
   * ![Medium](images/logos/medium.png)
-  * ![Meetup](images/logos/meetup.png) 
-  * ![Mozilla](images/logos/mozilla.png) 
-  * ![Oculogica](images/logos/oculogica.png) 
-  * ![OfficeNinjas](images/logos/office_ninjas.png)     
-  * ![Ohmygreen](images/logos/oh_my_green.png) 
-  * ![Private Internet Access](images/logos/private_internet_access.png) 
-  * ![Team Snap](images/logos/team_snap.jpg) 
+  * ![Meetup](images/logos/meetup.png)
+  * ![Mozilla](images/logos/mozilla.png)
+  * ![Oculogica](images/logos/oculogica.png)
+  * ![OfficeNinjas](images/logos/office_ninjas.png)
+  * ![Ohmygreen](images/logos/oh_my_green.png)
+  * ![Private Internet Access](images/logos/private_internet_access.png)
+  * ![Team Snap](images/logos/team_snap.jpg)
   * ![Thunderclap](images/logos/thunderclap.png)
-  * ![Tumblr](images/logos/tumblr.png) 
-  * ![Upworthy](images/logos/upworthy.png) 
-  * ![WordPress](images/logos/wordpress.png) 
-  * ![Xola](images/logos/xola.png) 
+  * ![Tumblr](images/logos/tumblr.png)
+  * ![Upworthy](images/logos/upworthy.png)
+  * ![WordPress](images/logos/wordpress.png)
+  * ![Xola](images/logos/xola.png)
 
 
 ---
@@ -59,7 +59,7 @@ Civil Society
 : * ![18MR.org](images/logos/18mr.png)
   * ![Access Now](images/logos/access.jpg)
   * ![Access Humboldt](images/logos/access_humboldt.jpg)
-  * ![Benton Foundation](images/logos/benton)
+  * ![Benton Foundation](images/logos/benton.jpg)
   * ![Center for Rural Strategies](images/logos/center-for-rural.png)
   * ![Common Cause](images/logos/common_cause_png.png)
   * ![Daily Kos](images/logos/daily_kos.png)
@@ -69,7 +69,7 @@ Civil Society
   * ![Open MIC](images/logos/open_mic.png)
   * ![OpenMedia](images/logos/open_media.png)
   * ![Participatory Culture Foundation](images/logos/participatory_culture_foundation.png)
-  * ![Popular Resistance](images/logos/.png)
+  * ![Popular Resistance](images/logos/popular_resistance.png)
   * ![Roots Action](images/logos/roots_action.png)
   * ![Voqal](images/logos/voqal.png)
   * ![Women's Institute for Freedom of the Press](images/logos/wifp.jpg)
@@ -125,6 +125,7 @@ The letter
 
 ---
 
+Hosted by:
 [![Fight for the Future](images/fftf-footer-logo.png)](https://www.fightforthefuture.org)
 
 Press Contact: [press@fightforthefuture.org](mailto:press@fightforthefuture.org) / [+1 508 474 5248](tel://15084745248)
