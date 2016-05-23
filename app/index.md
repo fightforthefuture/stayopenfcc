@@ -15,14 +15,29 @@ Together, we call on the **FCC** to create an open, public process to inform its
 # ♥ {#companies}
 
 Companies
-: * ![Mozilla](images/logos/mozilla.png)
-  * ![Meetup](images/logos/meetup.png)
-  * ![Medium](images/logos/medium.png)
-  * ![Tumblr](images/logos/tumblr.png)
+: * ![Cogent](images/logos/cogent.png)
+  * ![Contextly](images/logos/contexly.png)
+  * ![Duck Duck Go](images/logos/duck_duck_go.png)
   * ![Engine](images/logos/engine.png)
-  * ![Popular Resistance](images/logos/popular_resistance.png)
-  * ![Cogent](images/logos/cogent.png)
   * ![Foursquare](images/logos/foursquare.png)
+  * ![Gainfully](images/logos/gainfully.png)
+  * ![Haystack TV](images/logos/haystack_tv.jpg)
+  * ![Kickstarter](images/logos/kickstarter.png)
+  * ![Legal.io](images/logos/legal_io.png)
+  * ![Linknovate](images/logos/linknovate.png)
+  * ![Medium](images/logos/medium.png)
+  * ![Meetup](images/logos/meetup.png) 
+  * ![Mozilla](images/logos/mozilla.png) 
+  * ![Oculogica](images/logos/oculogica.png) 
+  * ![OfficeNinjas](images/logos/office_ninjas.png)     
+  * ![Ohmygreen](images/logos/oh_my_green.png) 
+  * ![Private Internet Access](images/logos/private_internet_access.png) 
+  * ![Team Snap](images/logos/team_snap.jpg) 
+  * ![Thunderclap](images/logos/thunderclap.png)
+  * ![Tumblr](images/logos/tumblr.png) 
+  * ![Upworthy](images/logos/upworthy.png) 
+  * ![WordPress](images/logos/wordpress.png) 
+  * ![Xola](images/logos/xola.png) 
 
 
 ---
