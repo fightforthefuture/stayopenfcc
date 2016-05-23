@@ -2,7 +2,7 @@
 layout: default
 ---
 
-We have an important announcement for the FCC. Please stay tuned!
+We have an important message for the FCC. **Please stay tuned!**
 : Come back Tuesday, May 24 2016!
 
 
