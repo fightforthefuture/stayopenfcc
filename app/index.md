@@ -66,7 +66,7 @@ Civil Society
   * ![Demand Progress](images/logos/demand_progress.png)
   * ![Fight for the Future](images/logos/fftf.png)
   * ![Media Alliance](images/logos/media_alliance.jpg)
-  * ![Open MIC](images/logos/open_mic.png
+  * ![Open MIC](images/logos/open_mic.png)
   * ![OpenMedia](images/logos/open_media.png)
   * ![Participatory Culture Foundation](images/logos/participatory_culture_foundation.png)
   * ![Popular Resistance](images/logos/.png)
