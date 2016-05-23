@@ -34,6 +34,7 @@ Companies
   * ![Oculogica](images/logos/oculogica.png)
   * ![OfficeNinjas](images/logos/office_ninjas.png)
   * ![Ohmygreen](images/logos/oh_my_green.png)
+  * ![Pinterest](images/logos/pinterest.png)
   * ![Private Internet Access](images/logos/private_internet_access.png)
   * ![Shapeways](images/logos/shapeways.png)
   * ![Spare5](images/logos/spare5.png)
