@@ -3,7 +3,7 @@ layout: default
 ---
 
 We have an important announcement for the FCC. Please stay tuned!
-: Come back tomorrow!
+: Come back Tuesday, May 24 2016!
 
 
 
