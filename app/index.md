@@ -67,7 +67,7 @@ Civil Society
   * ![Access Now](images/logos/access.jpg)
   * ![Access Humboldt](images/logos/access_humboldt.jpg)
   * ![Benton Foundation](images/logos/benton-foundation.jpg)
-  * ![Center For Media Justice](images/logos/benton-foundation.jpg)
+  * ![Center For Media Justice](images/logos/cmj.png)
   * ![Center for Rural Strategies](images/logos/center-for-rural.png)
   * ![Common Cause](images/logos/common_cause_png.png)
   * ![Daily Kos](images/logos/daily_kos.png)
