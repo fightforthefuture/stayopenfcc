@@ -36,7 +36,7 @@ Companies
   * ![Ohmygreen](images/logos/oh_my_green.png) 
   * ![Private Internet Access](images/logos/private_internet_access.png)
   * ![Shapeways](images/logos/Shapeways.png) 
-  * ![Spare5](images/logos/spare5.png)
+  * ![Spare5](images/logos/shapeways.png)
   * ![Team Snap](images/logos/team_snap.jpg) 
   * ![Thunderclap](images/logos/thunderclap.png)
   * ![Tumblr](images/logos/tumblr.png) 
