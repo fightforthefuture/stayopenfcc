@@ -12,4 +12,4 @@ We have an important message for the FCC. **Please stay tuned!**
 Hosted by:
 [![Fight for the Future](images/fftf-footer-logo.png)](https://www.fightforthefuture.org)
 
-Press Contact: [press@fightforthefuture.org](mailto:press@fightforthefuture.org) / [+1 508 474 5248](tel://15084745248)
+Press Contact: [press@fightforthefuture.org](mailto:press@fightforthefuture.org) / [comms@engine.is](mailto:comms@engine.is) / [+1 508 474 5248](tel://15084745248)
