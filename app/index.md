@@ -45,14 +45,10 @@ Companies
 # ♥ {#investors}
 
 Investors
-: * ![Mozilla](images/logos/mozilla.png)
-  * ![Meetup](images/logos/meetup.png)
-  * ![Medium](images/logos/medium.png)
-  * ![Tumblr](images/logos/tumblr.png)
-  * ![Engine](images/logos/engine.png)
-  * ![Popular Resistance](images/logos/popular_resistance.png)
-  * ![Cogent](images/logos/cogent.png)
-  * ![Foursquare](images/logos/foursquare.png)
+: * ![Om Malik](images/logos/om_malik.jpg)
+  * ![Foundry Group](images/logos/foundry.jpg)
+  * ![Union Square Ventures](images/logos/union_square_ventures.png)
+  * ![Venrock](images/logos/venrock.png)
 
 
 ---
@@ -60,14 +56,23 @@ Investors
 # ♥ {#groups}
 
 Civil Society
-: * ![Mozilla](images/logos/mozilla.png)
-  * ![Meetup](images/logos/meetup.png)
-  * ![Medium](images/logos/medium.png)
-  * ![Tumblr](images/logos/tumblr.png)
-  * ![Engine](images/logos/engine.png)
-  * ![Popular Resistance](images/logos/popular_resistance.png)
-  * ![Cogent](images/logos/cogent.png)
-  * ![Foursquare](images/logos/foursquare.png)
+: * ![18MR.org](images/logos/18mr.png)
+  * ![Access Now](images/logos/access.jpg)
+  * ![Access Humboldt](images/logos/access_humboldt.jpg)
+  * ![Benton Foundation](images/logos/benton)
+  * ![Center for Rural Strategies](images/logos/center-for-rural.png)
+  * ![Common Cause](images/logos/common_cause_png.png)
+  * ![Daily Kos](images/logos/daily_kos.png)
+  * ![Demand Progress](images/logos/demand_progress.png)
+  * ![Fight for the Future](images/logos/fftf.png)
+  * ![Media Alliance](images/logos/media_alliance.jpg)
+  * ![Open MIC](images/logos/open_mic.png
+  * ![OpenMedia](images/logos/open_media.png)
+  * ![Participatory Culture Foundation](images/logos/participatory_culture_foundation.png)
+  * ![Popular Resistance](images/logos/.png)
+  * ![Roots Action](images/logos/roots_action.png)
+  * ![Voqal](images/logos/voqal.png)
+  * ![Women's Institute for Freedom of the Press](images/logos/wifp.jpg)
 
 
 ---
