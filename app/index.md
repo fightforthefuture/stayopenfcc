@@ -100,7 +100,7 @@ The letter
     Washington D.C. 20554
   </p>
   <p>
-    May X, 2016
+    May 24, 2016
   </p>
   <p>
     Dear Chairman Wheeler and Commissioners Clyburn, Rosenworcel, Pai, and O’Rielly:
