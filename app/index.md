@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Together, we call on the **FCC** to create an open, public process to inform its evaluation of **zero rating plans.**
+Together, we call on the **FCC** to create an open, public process to inform its evaluation of **zero-rating plans.**
 : * [Companies](#companies)
   * [Investors](#investors)
   * [Civil society](#groups)
