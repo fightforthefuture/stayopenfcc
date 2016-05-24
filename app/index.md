@@ -70,7 +70,7 @@ Investors
 
 Civil Society
 : * ![18MR.org](images/logos/18mr.png)
-  * ![Access Now](images/logos/access.jpg)
+  * ![Access Now](images/logos/access.png)
   * ![Access Humboldt](images/logos/access_humboldt.jpg)
   * ![Benton Foundation](images/logos/benton.jpg)
   * ![Center For Media Justice](images/logos/cmj.png)
