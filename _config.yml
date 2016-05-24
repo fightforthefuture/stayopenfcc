@@ -8,8 +8,8 @@
 #############
 
 name: '#StayOpenFCC'
-url: https://github.com/fightforthefuture/stayopenfcc
-description: '#StayOpenFCC'
+url: http://www.stayopenfcc.org
+description: 'We call on the FCC to create an open, public process to inform its evaluation of zero-rating plans.'
 timezone: America/Los_Angeles # Should be formatted like formal tz database
 googleanalytics: UA-XXXXXXXX-XX
 
