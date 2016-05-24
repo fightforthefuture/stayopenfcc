@@ -15,10 +15,13 @@ Together, we call on the **FCC** to create an open, public process to inform its
 # ♥ {#companies}
 
 Companies
-: * ![Cogent](images/logos/cogent.png)
+: * ![Chute](images/logos/chute.png)
+  * ![Cogent](images/logos/cogent.png)
   * ![Contextly](images/logos/contexly.png)
+  * ![CREDO Mobile](images/logos/credomobile.jpg)
   * ![Dreamhost](images/logos/dreamhost.png)
   * ![Duck Duck Go](images/logos/duck_duck_go.png)
+  * ![Dwolla](images/logos/dwolla,png)
   * ![Engine](images/logos/engine.png)
   * ![Etsy](images/logos/etsy.png)
   * ![Foursquare](images/logos/foursquare.png)
@@ -30,6 +33,7 @@ Companies
   * ![Linknovate](images/logos/linknovate.png)
   * ![Medium](images/logos/medium.png)
   * ![Meetup](images/logos/meetup.png)
+  * ![MOZ](images/logos/moz.png)
   * ![Mozilla](images/logos/mozilla.png)
   * ![Oculogica](images/logos/oculogica.png)
   * ![OfficeNinjas](images/logos/office_ninjas.png)
@@ -68,7 +72,6 @@ Civil Society
 : * ![18MR.org](images/logos/18mr.png)
   * ![Access Now](images/logos/access.jpg)
   * ![Access Humboldt](images/logos/access_humboldt.jpg)
-  * ![CREDO Mobile](images/logos/credomobile.jpg)
   * ![Benton Foundation](images/logos/benton.jpg)
   * ![Center For Media Justice](images/logos/cmj.png)
   * ![Center for Rural Strategies](images/logos/center-for-rural.png)
