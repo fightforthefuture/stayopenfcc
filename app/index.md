@@ -43,7 +43,6 @@ Companies
   * ![Spare5](images/logos/spare5.png)
   * ![Team Snap](images/logos/team_snap.jpg)
   * ![Thunderclap](images/logos/thunderclap.png)
-  * ![Tumblr](images/logos/tumblr.png)
   * ![Upworthy](images/logos/upworthy.png)
   * ![Vimeo](images/logos/vimeo.png)
   * ![WordPress](images/logos/wordpress.png)
