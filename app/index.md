@@ -21,7 +21,7 @@ Companies
   * ![CREDO Mobile](images/logos/credomobile.jpg)
   * ![Dreamhost](images/logos/dreamhost.png)
   * ![Duck Duck Go](images/logos/duck_duck_go.png)
-  * ![Dwolla](images/logos/dwolla,png)
+  * ![Dwolla](images/logos/dwolla.png)
   * ![Engine](images/logos/engine.png)
   * ![Etsy](images/logos/etsy.png)
   * ![Foursquare](images/logos/foursquare.png)
