@@ -40,6 +40,7 @@ Companies
   * ![Ohmygreen](images/logos/oh_my_green.png)
   * ![Pinterest](images/logos/pinterest.png)
   * ![Private Internet Access](images/logos/private_internet_access.png)
+  * ![reddit](images/logos/reddit.png)
   * ![Spare5](images/logos/spare5.png)
   * ![Team Snap](images/logos/team_snap.jpg)
   * ![Thunderclap](images/logos/thunderclap.png)
