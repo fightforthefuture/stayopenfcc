@@ -78,6 +78,7 @@ Civil Society
   * ![Common Cause](images/logos/common_cause_png.png)
   * ![Daily Kos](images/logos/daily_kos.png)
   * ![Demand Progress](images/logos/demand_progress.png)
+  * ![Faithful Internet.png](images/logos/faithful_internet.png)
   * ![Fight for the Future](images/logos/fftf.png)
   * ![Future of Music Coalition](images/logos/fomc.jpg)
   * ![Media Alliance](images/logos/media_alliance.jpg)
