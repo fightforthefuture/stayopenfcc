@@ -111,7 +111,26 @@ dl {
     &:nth-of-type(even) {
         background: rgba(0, 0, 0, .2);
     }
+
+    &:last-of-type {
+        margin-bottom: 50px;
+        dd {
+            ul {
+                li {
+                    display: block;
+                    width: auto;
+                    height: auto;
+                    background: transparent;
+                    border-radius: none;
+                    line-height: 2rem;
+                    margin: 0px 0px 15px 0px;
+                }
+            }
+        }
+    }
 }
+
+
 
 .letter {
     margin: 30px auto 0px auto;
